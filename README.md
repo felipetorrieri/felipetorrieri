@@ -6,8 +6,6 @@ I'm a **Business Intelligence Analyst** with professional experience in **Power 
 
 I have experience developing **dashboards, analytical models, KPIs and data solutions**, combining technical skills with business understanding to support data-driven decision making.
 
-Currently working as a **Power BI Analyst at Liven Tecnologia**.
-
 ---
 
 ## 🧠 About Me
