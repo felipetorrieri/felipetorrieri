@@ -2,9 +2,9 @@
 
 ### Business Intelligence & Data Analytics
 
-I'm a **Business Intelligence Analyst** with experience developing data solutions that transform business processes into **actionable insights, KPIs and decision-support tools**.
+I'm a **Business Intelligence Analyst** focused on transforming business data into **actionable insights, KPIs and decision-support solutions**.
 
-My work combines **Power BI, DAX, SQL, data modeling and business analysis**, with experience across commercial, operational and strategic analytics.
+My experience combines **Power BI, DAX, SQL, data modeling and business analysis**, working across commercial, operational and strategic analytics.
 
 ---
 
@@ -43,23 +43,9 @@ My work combines **Power BI, DAX, SQL, data modeling and business analysis**, wi
 
 **Power BI · DAX · SQL · Power Query · Data Modeling**
 
-End-to-end Business Intelligence project focused on analyzing a **commercial lead and sales funnel**, from lead generation to signed deals.
+End-to-end Business Intelligence solution focused on a **commercial lead and sales funnel**, analyzing the customer journey from lead generation to signed deals.
 
-The solution monitors **funnel conversion, acquisition channels, partner performance, SDR productivity, commercial targets and GMV**.
-
-### What's included
-
-* 📊 Interactive Power BI dashboard
-* 🔄 End-to-end sales funnel analysis
-* 📈 Funnel conversion KPIs
-* 🎯 Actual vs. target performance
-* 🧲 Lead origin analysis
-* 🤝 Partner performance
-* 👤 SDR performance
-* 💰 GMV analysis
-* 🧮 DAX measures
-* 🔎 SQL analytical queries
-* 🗃️ Synthetic dataset for portfolio use
+The project explores **funnel conversion, acquisition channels, partner performance, SDR productivity, commercial targets and GMV**.
 
 **Lead → Order → Credit Analysis → Approved → Formalized → Signed**
 
@@ -67,28 +53,48 @@ The solution monitors **funnel conversion, acquisition channels, partner perform
 
 ![Lead & Sales Funnel Analytics Dashboard](https://raw.githubusercontent.com/felipetorrieri/lead-sales-funnel-analytics/main/docs/dashboard.png)
 
+**Key areas:**  
+`Funnel Analysis` · `Conversion KPIs` · `Lead Acquisition` · `Partner Performance` · `SDR Performance` · `GMV`
+
 🔗 **[View Full Project →](https://github.com/felipetorrieri/lead-sales-funnel-analytics)**
 
 ---
 
-## 🧪 Molecular Generation Models — Undergraduate Thesis
+## 🏋️ Gym Membership Analytics
 
-**Python · Machine Learning · Generative Models · RDKit**
+**Power BI · DAX · SQL · Customer Analytics · Data Modeling**
 
-Undergraduate thesis exploring computational approaches for molecular
-generation, comparing different generative modeling techniques and
-evaluating generated molecules through metrics such as validity,
-uniqueness and novelty.
+End-to-end Business Intelligence solution analyzing a fictional **multi-location fitness network** from financial, customer and operational perspectives.
 
-🔗 **[View Project →](https://github.com/felipetorrieri/molecular-generation-models)**
+The project explores **membership growth, recurring revenue, churn, retention, customer engagement and gym utilization**.
+
+**Acquisition → Membership → Engagement → Retention → Revenue**
+
+### Dashboard Preview
+
+![Gym Membership Analytics Dashboard](https://raw.githubusercontent.com/felipetorrieri/gym-membership-analytics/main/docs/01_executive_overview.png)
+
+**Key areas:**  
+`MRR` · `Churn` · `Retention` · `Cohort Analysis` · `Customer Engagement` · `Capacity Utilization`
+
+🔗 **[View Full Project →](https://github.com/felipetorrieri/gym-membership-analytics)**
 
 ---
 
-## 🚧 What's Next
+## 🧪 Molecular Generation Models
 
-I'm currently expanding my portfolio with projects focused on:
+**Python · Machine Learning · PyTorch · RDKit · Generative Models**
 
-`Commercial Analytics` · `Financial Analytics` · `Business Intelligence` · `Data Analytics`
+Research project developed as my **Undergraduate Thesis in Computer Engineering at UFSCar**, exploring computational approaches for molecular generation.
+
+The study compares different generative modeling techniques and evaluates generated molecules using metrics such as **validity, uniqueness and novelty**.
+
+**Molecular Data → Generative Models → Molecule Generation → Evaluation**
+
+**Key areas:**  
+`Generative AI` · `Machine Learning` · `PyTorch` · `RDKit` · `Cheminformatics` · `Experimental Evaluation`
+
+🔗 **[View Full Project →](https://github.com/felipetorrieri/molecular-generation-models)**
 
 ---
 
@@ -143,26 +149,26 @@ Supported data analysis, reporting and automation initiatives for data-driven de
 
 **Universidade Federal de São Carlos — UFSCar**
 
-**B.Sc. in Computer Engineering**
+**B.Sc. in Computer Engineering**  
 2017 – 2024
 
 ---
 
 ## 🌎 Languages
 
-🇧🇷 Portuguese — Native
-🇺🇸 English — Fluent
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Fluent  
 🇪🇸 Spanish — Intermediate
 
 ---
 
 ## 📫 Let's Connect
 
-I'm interested in opportunities and conversations around **Business Intelligence, Data Analytics and Data-driven Decision Making**.
+I'm open to opportunities in **Business Intelligence and Data Analytics**, particularly roles involving data visualization, analytical modeling and business performance analysis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipetorrieri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetorrieri/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/felipetorrieri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipetorrieri)
 
 ---
 
