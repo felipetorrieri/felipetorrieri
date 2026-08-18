@@ -166,6 +166,8 @@ Supported data analysis, reporting and automation initiatives for data-driven de
 
 I'm open to opportunities in **Business Intelligence and Data Analytics**, particularly roles involving data visualization, analytical modeling and business performance analysis.
 
+[![Email](https://img.shields.io/badge/Email-felipe.torrieri%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:felipe.torrieri@hotmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetorrieri/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipetorrieri)
