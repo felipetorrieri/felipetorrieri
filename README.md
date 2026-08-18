@@ -2,9 +2,9 @@
 
 ### Business Intelligence & Data Analytics
 
-I'm a **Business Intelligence Analyst** with professional experience in **Power BI, DAX and SQL**, focused on transforming data into insights and business solutions.
+I'm a **Business Intelligence Analyst** with experience developing data solutions that transform business processes into **actionable insights, KPIs and decision-support tools**.
 
-I have experience developing **dashboards, analytical models, KPIs and data solutions**, combining technical skills with business understanding to support data-driven decision making.
+My work combines **Power BI, DAX, SQL, data modeling and business analysis**, with experience across commercial, operational and strategic analytics.
 
 ---
 
@@ -15,124 +15,124 @@ I have experience developing **dashboards, analytical models, KPIs and data solu
 * 🧩 Data Modeling & Star Schema
 * 🔄 Power Query & Data Transformation
 * 🔐 Row-Level Security (RLS)
-* 🔗 API Integration
+* 🔗 APIs & Data Integration
 * 📈 KPI Development & Business Analysis
-* 🎓 Computer Engineering — UFSCar
+* 🎓 B.Sc. in Computer Engineering — UFSCar
 
 ---
 
 ## 🛠️ Tech Stack
 
-**BI & Visualization**
+**Business Intelligence & Visualization**
 
 `Power BI` `DAX` `Power Query` `Metabase` `Looker Studio`
 
-**Data**
+**Data & Analytics**
 
-`SQL` `BigQuery` `Data Modeling` `Star Schema`
+`SQL` `BigQuery` `Data Modeling` `Star Schema` `ETL / ELT`
 
-**Programming**
+**Programming & Tools**
 
-`Python`
-
----
-
-## 📂 Featured Projects
-
-> 🚧 I'm currently building a portfolio of end-to-end Data Analytics & Business Intelligence projects.
-
-### 📊 Sales Performance Analytics
-
-**Power BI · DAX · SQL · Data Modeling**
-
-An interactive BI solution focused on sales performance, revenue, profitability and commercial KPIs.
-
-**Coming soon:**
-
-* [ ] Data preparation
-* [ ] SQL analysis
-* [ ] Dimensional data model
-* [ ] DAX measures
-* [ ] Power BI dashboard
-* [ ] Business insights
-
-🔗 **Repository:** Coming soon
+`Python` `Git` `GitHub`
 
 ---
 
-### 💰 Financial Performance Analytics
+# 📂 Featured Projects
 
-**SQL · Power BI · DAX**
+## 📊 Lead & Sales Funnel Analytics
 
-An analytical solution focused on financial performance, profitability and management KPIs.
+**Power BI · DAX · SQL · Power Query · Data Modeling**
 
-**Coming soon:**
+End-to-end Business Intelligence project focused on analyzing a **commercial lead and sales funnel**, from lead generation to signed deals.
 
-* [ ] Financial data model
-* [ ] SQL analysis
-* [ ] KPI development
-* [ ] Variance analysis
-* [ ] Executive dashboard
+The solution monitors **funnel conversion, acquisition channels, partner performance, SDR productivity, commercial targets and GMV**.
 
-🔗 **Repository:** Coming soon
+### What's included
 
----
+* 📊 Interactive Power BI dashboard
+* 🔄 End-to-end sales funnel analysis
+* 📈 Funnel conversion KPIs
+* 🎯 Actual vs. target performance
+* 🧲 Lead origin analysis
+* 🤝 Partner performance
+* 👤 SDR performance
+* 💰 GMV analysis
+* 🧮 DAX measures
+* 🔎 SQL analytical queries
+* 🗃️ Synthetic dataset for portfolio use
 
-### 🛒 E-commerce Analytics
+**Lead → Order → Credit Analysis → Approved → Formalized → Signed**
 
-**SQL · Python · Power BI**
+### Dashboard Preview
 
-An end-to-end analytics project exploring sales performance, customer behavior and retention.
+![Lead & Sales Funnel Analytics Dashboard](https://raw.githubusercontent.com/felipetorrieri/lead-sales-funnel-analytics/main/docs/dashboard.png)
 
-**Coming soon:**
-
-* [ ] Exploratory data analysis
-* [ ] Customer segmentation
-* [ ] Cohort analysis
-* [ ] SQL analytics
-* [ ] Power BI dashboard
-
-🔗 **Repository:** Coming soon
+🔗 **[View Full Project →](https://github.com/felipetorrieri/lead-sales-funnel-analytics)**
 
 ---
 
-### 🧪 Molecular Generation — Undergraduate Thesis
+## 🧪 Molecular Generation — Undergraduate Thesis
 
-**Python · Machine Learning · Generative Models**
+**Python · Machine Learning · Generative Models · RDKit**
 
-Undergraduate thesis investigating the comparative performance of molecular generation approaches, including Generative Adversarial Networks and other computational methods.
+Undergraduate thesis exploring computational approaches for **molecular generation**, comparing different generative modeling techniques and evaluating generated molecules through metrics such as **validity, uniqueness and novelty**.
 
-🔗 **[View project →](https://github.com/felipetorrieri/tcc)**
+🔗 **[View Project →](https://github.com/felipetorrieri/tcc)**
 
 ---
 
-## 💼 Experience
+## 🚧 What's Next
+
+I'm currently expanding my portfolio with projects focused on:
+
+`Commercial Analytics` · `Financial Analytics` · `Business Intelligence` · `Data Analytics`
+
+---
+
+## 💼 Professional Experience
 
 ### Power BI Analyst — Liven Tecnologia
 
-**Aug 2025 – Present**
+**Aug 2025 – May 2026**
 
-Working with Business Intelligence and analytical solutions, including:
+Development and evolution of Business Intelligence solutions focused on **business performance and decision support**.
 
-* Power BI dashboards and reporting
-* Advanced DAX metrics
-* Data modeling and Power Query
-* Data validation and analytical quality
-* Row-Level Security
-* API integrations
-* Metabase
+**Main activities:**
+
+* Power BI dashboard development
+* DAX metrics and KPIs
+* Power Query and data transformation
+* Data modeling
+* Row-Level Security (RLS)
+* Data validation with business stakeholders
+* API and Databricks integrations
+* Strategic indicator monitoring
 
 ### Planning & BI Analyst — Dryve
 
 **Sep 2024 – Aug 2025**
 
-Worked with Business Intelligence, planning and data analysis, developing analytical solutions and supporting business performance monitoring.
+Worked with Business Intelligence, planning and analytics, supporting commercial and operational performance through data.
+
+**Main activities:**
+
+* Sales and lead funnel analytics
+* Business performance dashboards
+* SQL analysis
+* Power BI and Metabase
+* KPI and OKR monitoring
+* Management reporting
+* Commercial performance analysis
 
 ### Data Analyst Intern — Motorola Mobility
 
 **Jan 2023 – Jul 2024**
 
-Experience in data analysis, reporting and analytical solutions, supporting data-driven decision making.
+Supported data analysis, reporting and automation initiatives for data-driven decision making.
+
+**Main technologies:**
+
+`BigQuery` · `Power BI` · `Looker Studio`
 
 ---
 
@@ -140,7 +140,7 @@ Experience in data analysis, reporting and analytical solutions, supporting data
 
 **Universidade Federal de São Carlos — UFSCar**
 
-B.Sc. in Computer Engineering
+**B.Sc. in Computer Engineering**
 2017 – 2024
 
 ---
@@ -155,10 +155,12 @@ B.Sc. in Computer Engineering
 
 ## 📫 Let's Connect
 
-I'm always interested in connecting with people working with **Data, Business Intelligence and Analytics**.
+I'm interested in opportunities and conversations around **Business Intelligence, Data Analytics and Data-driven Decision Making**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipetorrieri/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/felipetorrieri)
+
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Feel free to explore my projects and repositories!
