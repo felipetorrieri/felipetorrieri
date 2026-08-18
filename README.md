@@ -71,13 +71,16 @@ The solution monitors **funnel conversion, acquisition channels, partner perform
 
 ---
 
-## 🧪 Molecular Generation — Undergraduate Thesis
+## 🧪 Molecular Generation Models — Undergraduate Thesis
 
 **Python · Machine Learning · Generative Models · RDKit**
 
-Undergraduate thesis exploring computational approaches for **molecular generation**, comparing different generative modeling techniques and evaluating generated molecules through metrics such as **validity, uniqueness and novelty**.
+Undergraduate thesis exploring computational approaches for molecular
+generation, comparing different generative modeling techniques and
+evaluating generated molecules through metrics such as validity,
+uniqueness and novelty.
 
-🔗 **[View Project →](https://github.com/felipetorrieri/tcc)**
+🔗 **[View Project →](https://github.com/felipetorrieri/molecular-generation-models)**
 
 ---
 
